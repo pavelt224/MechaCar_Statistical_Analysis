@@ -8,7 +8,7 @@ A few weeks after starting his new role, Jeremy is approached by upper managemen
 1. Deliverable 1: Linear Regression to Predict MPG
     Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
 
-    ![Mecha Car Linear Model Summary](./Images/D1 Linear Regression to Predict MPG.png)
+    Mecha Car Linear Model Summary![D1 Linear Regression to Predict MPG](https://user-images.githubusercontent.com/93852380/156665732-039331f5-8a59-4412-a4a6-00c4b8325556.png)
 
     Summary of Findings
 Data scientists can estimate future observations and measurements of a continuous, dependent variable of interest based on various independent factors using the above exercise of developing a predictive, multiple linear regression modeling tool. We can deduce the following from the overall results of our analysis:
