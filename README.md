@@ -24,16 +24,8 @@ Data scientists can estimate future observations and measurements of a continuou
 # 2. Deliverable 2: Create Visualizations for the Trip
     Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
 
-<<<<<<< HEAD
-
-
-
-
-3. Deliverable 3: T-Tests on Suspension Coils (20 points)
-    Run t-tests to determine if the manufacturing lots are statistically different from the mean population
-=======
 ## Output of Results
->>>>>>> 68aa4386548189dafa6e56fd7ed7ff0657dfc4e2
+
 
 Total Summary:
 
